@@ -1,6 +1,6 @@
 # CsvManager
 
-**TODO: Add description**
+CsvManager is a csv reader made with Elixir, it can reads a csv and the user is able to select rows, columns and specific values from it. I was in order for me to learn more Elixir.
 
 ## Installation
 
